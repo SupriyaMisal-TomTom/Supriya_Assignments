@@ -1,8 +1,8 @@
 # Question 1: Variables and Data Types
 
 # Store personal information in variables
-name = "Rahul Dugal"
-age = 38
+name = "Supriya Misal"
+age = 41
 favorite_language = "Python"
 
 # Print the values of the variables with descriptive messages
