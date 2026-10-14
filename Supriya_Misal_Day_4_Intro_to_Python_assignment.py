@@ -2,7 +2,7 @@
 
 # Store personal information in variables
 name = "Supriya Misal"
-age = 38
+age = 41
 favorite_language = "Python"
 
 # Print the values of the variables with descriptive messages
